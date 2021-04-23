@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My name is Senih
+
+Software developer specializing in
+
+```React, Redux, Node, Express, SQL, JAVA, Spring Boot, and Python```
+
+[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=aydinsenih&show_icons=true&theme=dark)](https://github.com/aydinsenih)
 
 <!--
 **aydinsenih/aydinsenih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
