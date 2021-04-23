@@ -2,7 +2,7 @@
 
 Software developer specializing in
 
-```React, Redux, Node, Express, SQL, JAVA, Spring Boot, and Python```
+```React, Redux, Node, Express, PostgreSQL, Spring Boot, and Python```
 
 [![Windard's github stats](https://github-readme-stats.vercel.app/api?username=aydinsenih&show_icons=true&theme=dark)](https://github.com/aydinsenih)
 
