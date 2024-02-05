@@ -2,7 +2,7 @@
 
 Software developer specializing in
 
-```React. Typescript, Python, Redux, Django, Nodejs, PostgreSQL, AWS```
+```React, Typescript, Python, Redux, Django, Nodejs, PostgreSQL, AWS```
 
 
 
