@@ -2,11 +2,12 @@
 
 Software developer specializing in
 
-```React, Redux, Nodejs, PostgreSQL, Java, Spring Boot, and Python```
+```React. Typescript, Python, Redux, Django, Nodejs, PostgreSQL, AWS```
 
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=aydinsenih&show_icons=true&theme=dark)](https://github.com/aydinsenih)
+
 
 <!--
+[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=aydinsenih&show_icons=true&theme=dark)](https://github.com/aydinsenih)
 **aydinsenih/aydinsenih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
